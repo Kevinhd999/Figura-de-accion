@@ -1,10 +1,11 @@
+Requisitos
+
+Java Development Kit (JDK) 8 o superior.
+Un IDE o editor de texto para Java, como Eclipse, IntelliJ IDEA o Visual Studio Code.
+Consola o terminal para ejecutar el programa.
+
+
 Ejercicio Base
-
-
-
-
-
-
 
 En su labor como programador de software ha sido elegido para el desarrollo de una aplicación que necesita generar facturas de ventas de su establecimiento, relacionado con figuras de acción de las series animadas mas famosas en el mundo 
 Aclaraciones: 
