@@ -1,6 +1,11 @@
 Ejercicio Base
 
 
+
+
+
+
+
 En su labor como programador de software ha sido elegido para el desarrollo de una aplicación que necesita generar facturas de ventas de su establecimiento, relacionado con figuras de acción de las series animadas mas famosas en el mundo 
 Aclaraciones: 
 Tendrá un limite de venta de 5 productos máximo 
