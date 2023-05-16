@@ -7,6 +7,10 @@ en el almacenamiento de los datos.
 
 No se realiza validación, ni se verifica calidad en los datos ingresados.
 
+Aproximacion caso de uso 
+
+[![Whats-App-Image-2023-05-16-at-7-51-40-AM.jpg](https://i.postimg.cc/pXXWRMXM/Whats-App-Image-2023-05-16-at-7-51-40-AM.jpg)](https://postimg.cc/c62yBjnF)
+
 Diagrama de flujo 
 
 
