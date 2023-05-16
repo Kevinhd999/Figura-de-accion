@@ -6,3 +6,21 @@ Para efectos de mantener la simplicidad del ejemplo no se contemplan manejar per
 en el almacenamiento de los datos. 
 
 No se realiza validación, ni se verifica calidad en los datos ingresados.
+
+
+Pseudocodigo
+
+
+Algoritmo VentasTiendaFiguras
+Definir figura Como Caracter
+Definir vendedor Como Entero
+Definir ventas Como Real
+Escribir 'Ingrese el nombre de la figura:'
+Leer figura
+Escribir 'Ingrese el número del vendedor:'
+Leer vendedor
+Escribir 'Ingrese las ventas para la figura ',figura,' del vendedor ',vendedor,':'
+Leer ventas
+Escribir 'Ventas de la figura ',figura,' para el vendedor ',vendedor,':'
+Escribir 'El vendedor ',vendedor,' vendió ',ventas,' de la figura ',figura
+FinAlgoritmo
