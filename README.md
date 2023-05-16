@@ -7,6 +7,11 @@ en el almacenamiento de los datos.
 
 No se realiza validación, ni se verifica calidad en los datos ingresados.
 
+Diagrama de flujo 
+
+
+[![Diagrama-F-figuras.jpg](https://i.postimg.cc/J7pNzB6n/Diagrama-F-figuras.jpg)](https://postimg.cc/QVW96VrG)
+
 
 Pseudocodigo
 
@@ -24,6 +29,3 @@ Leer ventas
 Escribir 'Ventas de la figura ',figura,' para el vendedor ',vendedor,':'
 Escribir 'El vendedor ',vendedor,' vendió ',ventas,' de la figura ',figura
 FinAlgoritmo
-
-[![Diagrama-F-figuras.jpg](https://i.postimg.cc/J7pNzB6n/Diagrama-F-figuras.jpg)](https://postimg.cc/QVW96VrG)
-
